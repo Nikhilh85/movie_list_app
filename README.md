@@ -19,8 +19,7 @@
 
 2. Search Functionality - ![image](https://github.com/user-attachments/assets/4c479469-b7f5-4f34-a9d8-afebba229c1b)
 
-3. Responsive Demo -
-![image](https://github.com/user-attachments/assets/7c89da3a-84c3-4318-94db-d1cdba6f2172)![image](https://github.com/user-attachments/assets/e0075611-c680-4300-ac94-04b43576da05)![image](https://github.com/user-attachments/assets/b3e4a957-c221-4072-8041-e0d70847dab9)![image](https://github.com/user-attachments/assets/3e15e669-c39e-4644-a995-16d6ee9de300)
+3. Responsive Demo - https://nikhilh85.github.io/movie_list_app/
 
 
 
